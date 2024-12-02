@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Collin
-- 👀 I’m interested in web development
+- 👀 I’m interested in coding
 - 🌱 I love to learn
-- 📫 Checkout my website: <insert website>
