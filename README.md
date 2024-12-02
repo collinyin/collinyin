@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Collin
-- 👀 I’m interested in coding
+- 👀 I’m interested in all things related to computers
 - 🌱 I love to learn
